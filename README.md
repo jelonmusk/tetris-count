@@ -56,6 +56,9 @@ Feel free to **file a new issue** with a respective title and description on the
 ## :heart: Owner
 Made with :heart:&nbsp;  by [JShaikh](https://github.com/jelonmusk)    
 
+## :+1: Credits
+* [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/)     
+
 ## :eyes: License
 MIT © [JShaikh](https://github.com/jelonmusk/tetris-count/blob/main/LICENSE)
 
